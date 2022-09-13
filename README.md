@@ -5,15 +5,13 @@ Damian Müller
 ## Einleitung
 
 Ich musste im Informatikfach Lernatelier einen Number guesser programmieren. 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+ 
 
 ## Was habe ich gelernt?
 
 Ich habe gelernt wie eine if/while Schleife funktioniert und wie man sie einsetzt. 
 
 ## Beschreibung
-
-✍️ Verwenden Sie drei verschiedene Medien 
 
 ![Gif](https://user-images.githubusercontent.com/110892840/189843991-ff1a3c0b-4161-4439-a1ad-9feeda6b7b12.gif)
 
@@ -24,15 +22,17 @@ Ich habe gelernt wie eine if/while Schleife funktioniert und wie man sie einsetz
 
 ## Verifikation
 
-Text: 
+Text: Ich musste diese if/while Schleife programmieren, damit sich mein Programm auch wieder holen kann und auch aufhören wenn die richtige Zahl erraten wurde. 
+
 Gif: Es wurde angezeigt das ich eine Zahl zwischen 1 und 100 eingeben soll. Ich habe aber ein Wort eingegeben und danach ist das Programm abgestürzt.
+
 Bild: Auf dem Bild ist meine if/while Schleife abgebildet.
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+ 
 
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Ich habe mein fertig gekriegt und es funktioniert. Das ist natürlich sehr erfreuend und motivierend für die nächste Arbeit.  
 
-👎 und etwas, was nicht gut lief.
+👎 Zwischenzeitlich bin ich beim Code nicht weitergekommen weil mir ein Fehler angezeigt wurde und ich den Fehler nicht fand. Da ist meine Motivation gesunken.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**:  Ich hätte manchmal motivierter arbeiten können
