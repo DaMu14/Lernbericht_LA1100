@@ -17,13 +17,13 @@ Ich habe gelernt wie eine if/while Schleife funktioniert und wie man sie einsetz
 
 ![if/while Schleife](https://user-images.githubusercontent.com/110892840/189844676-605e2356-e9e3-4985-b4a6-c2499e3fd691.png)
 
-
+Text: Ich musste diese if/while Schleife programmieren, damit sich mein Programm auch wieder holen kann und auch aufhören wenn die richtige Zahl erraten wurde.
  
 
 ## Verifikation
 
-Text: Ich musste diese if/while Schleife programmieren, damit sich mein Programm auch wieder holen kann und auch aufhören wenn die richtige Zahl erraten wurde. 
-
+Text: Im Text habe ich geschrieben für was eine if/while Schleife nötig ist. 
+ 
 Gif: Es wurde angezeigt das ich eine Zahl zwischen 1 und 100 eingeben soll. Ich habe aber ein Wort eingegeben und danach ist das Programm abgestürzt.
 
 Bild: Auf dem Bild ist meine if/while Schleife abgebildet.
