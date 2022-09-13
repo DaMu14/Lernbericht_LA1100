@@ -8,12 +8,15 @@ Damian Müller
 
 ## Was habe ich gelernt?
 
+Ich habe gelernt wie eine if/while Schleife funktioniert und wie ma sie einsetzt.
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+
+![Gif](https://user-images.githubusercontent.com/110892840/189843991-ff1a3c0b-4161-4439-a1ad-9feeda6b7b12.gif)
+
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
